@@ -4,7 +4,7 @@ print(my_list_1)
 
 
 
-my_list_2 = [5,6,7,8]
+my_list_2 = ['Modified in dev3 to see how it looks after merging with master 1.py']
 
 print(my_list_2)
 
@@ -15,3 +15,5 @@ print(my_list_3)
 
 
 print('This is the edit test for dev1')
+
+print('This is from dev3')
